@@ -1,0 +1,33 @@
+{
+	"folders": [
+		{
+			"name": "Site2",
+			"path": "../../Site2"
+		},
+		{
+			"name": "Site3",
+			"path": "../../Site3"
+		},
+		{
+			"name": "БЭМ",
+			"path": "../../БЭМ"
+		},
+		{
+			"name": "site567878",
+			"path": "../../site567878"
+		},
+		{
+			"name": "prank",
+			"path": "../../prank"
+		},
+		{
+			"name": "site",
+			"path": "../../site"
+		},
+		{
+			"name": "Homework1",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
